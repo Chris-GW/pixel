@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bonjwa r/placeDE Overlay
 // @namespace    http://tampermonkey.net/
-// @version      3
+// @version      4
 // @description  try to take over the canvas!
 // @author       Chris-GW
 // @match        https://garlic-bread.reddit.com/*
