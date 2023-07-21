@@ -9,7 +9,7 @@
 // @updateURL    https://github.com/Chris-GW/pixel/raw/main/bonjwa/placeDE-overlay.user.js
 // @downloadURL  https://github.com/Chris-GW/pixel/raw/main/bonjwa/placeDE-overlay.user.js
 // ==/UserScript==
-let url = "https://raw.githubusercontent.com/Chris-GW/pixel/main/bonjwa/overlay.png"
+let url = "https://raw.githubusercontent.com/Chris-GW/pixel/main/overlay.png"
 
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
