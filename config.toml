@@ -18,6 +18,13 @@ ignore_colors = [
 "3" = 10
 
 [[structure]]
+name = "flaguk"
+file = "bonjwa/uk_flag_pixelart.png"
+startx = 166
+starty = 170
+priority = 10
+
+[[structure]]
 name = "bonjwa-logo29"
 file = "bonjwa/Bonjwa_Logo_29x29.png"
 startx = 282
@@ -47,22 +54,36 @@ starty = 132
 priority = 1
 
 [[structure]]
-name = "auge"
+name = "kekluckeye"
 file = "bonjwa/auge.png"
 startx = 210
 starty = 156
 priority = 1
 
 [[structure]]
-name = "HerzAlbanien"
-file = "bonjwa/Herz.png"
+name = "HeartArmenia"
+file = "bonjwa/heart_bonjwa_armenia.png"
 startx = 198
 starty = 154
 priority = 1
 
 [[structure]]
-name = "HerzUK"
+name = "HeartUK"
 file = "bonjwa/Herz.png"
 startx = 281
 starty = 167
-priority = 1
+priority = 2
+
+[[structure]]
+name = "HeartDE"
+file = "bonjwa/deheart.png"
+startx = 320
+starty = 130
+priority = 2
+
+[[structure]]
+name = "touri"
+file = "bonjwa/Touri_AndiDesign_11x14.png"
+startx = 310
+starty = 155
+priority = 10
